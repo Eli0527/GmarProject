@@ -1,0 +1,33 @@
+.cardGoals{
+    height: 245px;
+    border-radius:100%;
+    width: 250px;
+    margin-top: 60px;
+    margin-left: -229px;
+    background-color: #97c2a12e;
+}
+#graph{
+    margin-right: 169px;
+    height: 293px;
+    width: 877px;
+    margin-top: -318px;
+    margin-left: -263px;
+    background-color: #97c2a12e;
+    border-radius:15px;
+}
+#cardUser{
+    margin-right: -227px;
+    height: 610px;
+    width: 350px;
+    margin-top: 80px;
+    margin-left: -109px;
+    margin-right: -229px;
+    background-color: #97c2a12e;
+}
+.pragraph{
+font-family: cursive;
+}
+.card-title{
+    text-decoration: underline;
+    font-weight: bold;
+}
